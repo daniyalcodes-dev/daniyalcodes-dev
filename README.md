@@ -1,7 +1,7 @@
 
 # &#x20;Hi, I'm Daniyal Hassan 👋
 
-[svg](https://github.com/daniyalcodes-dev/daniyalcodes-dev#hi-im-daniyal-hassan-)
+(https://github.com/daniyalcodes-dev/daniyalcodes-dev#hi-im-daniyal-hassan-)
 
 **16 y/o · AI/ML & DSA Learner · Pakistan**
 
@@ -11,7 +11,7 @@
 
 ## About Me
 
-[svg](https://github.com/daniyalcodes-dev/daniyalcodes-dev#about-me)
+(https://github.com/daniyalcodes-dev/daniyalcodes-dev#about-me)
 
 I’m currently focused on building strong foundations in **Python**, **Data Structures & Algorithms**, and **Artificial Intelligence**.
 
@@ -41,7 +41,7 @@ Right now, I’m sharpening:
 
 ## Current Focus
 
-[svg](https://github.com/daniyalcodes-dev/daniyalcodes-dev#current-focus)
+(https://github.com/daniyalcodes-dev/daniyalcodes-dev#current-focus)
 
 | **🚀 Area📌 Status** |                          |
 | -------------------- | ------------------------ |
