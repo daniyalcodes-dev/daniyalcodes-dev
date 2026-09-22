@@ -1,66 +1,39 @@
+<h1 align="center">Hi, I'm Daniyal 👋</h1>
+<p align="center">AI/ML learner · Pakistan · building foundations in public</p>
 
-# &#x20;Hi, I'm Daniyal Hassan 👋
-
-(https://github.com/daniyalcodes-dev/daniyalcodes-dev#hi-im-daniyal-hassan-)
-
-**16 y/o · AI/ML & DSA Learner · Pakistan**
-
-> “Discipline beats motivation. Small progress every day compounds.”
-
----
-
-## About Me
-
-(https://github.com/daniyalcodes-dev/daniyalcodes-dev#about-me)
-
-I’m currently focused on building strong foundations in **Python**, **Data Structures & Algorithms**, and **Artificial Intelligence**.
-
-My goal isn’t to just “learn coding” — it’s to understand how systems work, solve problems logically, and eventually build intelligent applications with real impact.
-
-Right now, I’m sharpening:
-
-- Problem-solving skills
-- Programming fundamentals
-- Logical thinking
-- Consistency and discipline
+<p align="center">
+  <a href="https://github.com/daniyalcodes-dev"><img src="https://img.shields.io/badge/GitHub-daniyalcodes--dev-181717?style=flat&logo=github" /></a>
+  <a href="https://www.linkedin.com/in/daniyalcodes-dev"><img src="https://img.shields.io/badge/LinkedIn-daniyalcodes--dev-0A66C2?style=flat&logo=linkedin" /></a>
+</p>
 
 ---
 
-## Current Learning Path
+### What I'm doing
 
-[svg](https://github.com/daniyalcodes-dev/daniyalcodes-dev#current-learning-path)
+I'm working toward becoming an AI/ML engineer, and eventually building my own AI product. I restarted my Python fundamentals from scratch a while back because my earlier foundation wasn't solid enough — I'd rather be slow and actually understand things than fast and shaky.
 
--  Python Fundamentals
--  Object-Oriented Programming
--  Data Structures & Algorithms
--  NumPy · Pandas · Matplotlib
--  Machine Learning
--  Deep Learning
+Current focus: Python → DSA → math/data science → ML → DL → specialization. One track at a time, no parallel courses.
 
----
+### Where I actually am right now
 
-## Current Focus
+```
+Python           →  core concepts, OOP, NumPy/pandas — solid, still sharpening
+DSA              →  recursion, trees, BSTs (insert/delete/traversal), sorting
+                     (not yet: hash tables, graphs)
+Math/Data Sci    →  not started
+ML / DL          →  not started
+```
 
-(https://github.com/daniyalcodes-dev/daniyalcodes-dev#current-focus)
+No inflated checklist here — this is the real state, updated as it changes.
 
-| **🚀 Area📌 Status** |                          |
-| -------------------- | ------------------------ |
-| Python               | Learning Core Concepts   |
-| DSA                  | Starting Problem Solving |
-| AI/ML                | Building Foundations     |
-| Goal                 | Become an AI Engineer    |
 
----
+### How I work
 
-## Mindset
-
-[svg](https://github.com/daniyalcodes-dev/daniyalcodes-dev#mindset)
-
-- Learn deeply, not quickly
-- Build projects, not just notes
-- Consistency over intensity
-- Skills over hype
+- Finish one resource before starting another
+- Build to understand, not to pad a portfolio
+- Would rather be told what's wrong with my approach than be told it's fine
+- Discipline over motivation — consistency compounds
 
 ---
 
-⭐ *Still at the beginning — but moving forward every day*
+<p align="center"><sub>Still early. Progress tracked, not performed.</sub></p>
