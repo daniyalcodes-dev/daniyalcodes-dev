@@ -1,39 +1,81 @@
-<h1 align="center">Hi, I'm Daniyal 👋</h1>
-<p align="center">AI/ML learner · Pakistan · building foundations in public</p>
+# Daniyal Hassan
 
 <p align="center">
-  <a href="https://github.com/daniyalcodes-dev"><img src="https://img.shields.io/badge/GitHub-daniyalcodes--dev-181717?style=flat&logo=github" /></a>
-  <a href="https://www.linkedin.com/in/daniyalcodes-dev"><img src="https://img.shields.io/badge/LinkedIn-daniyalcodes--dev-0A66C2?style=flat&logo=linkedin" /></a>
+  <strong>AI/ML Learner · Python Developer · Future AI Engineer</strong>
+  <br />
+  Building strong foundations. Learning by doing.
+</p>
+
+<p align="center">
+  <a href="https://github.com/daniyalcodes-dev">
+    <img src="https://img.shields.io/badge/GitHub-daniyalcodes--dev-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/daniyalcodes-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
 
-### What I'm doing
+## About Me
 
-I'm working toward becoming an AI/ML engineer, and eventually building my own AI product. I restarted my Python fundamentals from scratch a while back because my earlier foundation wasn't solid enough — I'd rather be slow and actually understand things than fast and shaky.
+I'm an Intermediate Computer Science student from Pakistan working toward becoming an AI/ML engineer and eventually building AI-powered products.
 
-Current focus: Python → DSA → math/data science → ML → DL → specialization. One track at a time, no parallel courses.
+I'm strengthening my Python fundamentals, practicing problem-solving, and learning to build projects that help me understand concepts beyond the theory.
 
-### Where I actually am right now
+I believe in understanding the fundamentals before chasing advanced tools or technologies.
 
+## Current Focus
+
+- **Python** — core concepts, OOP, NumPy and pandas
+- **Data Structures & Algorithms** — recursion, trees, BSTs and sorting
+- **Problem Solving** — writing code, debugging and understanding trade-offs
+- **Long-term Goal** — mathematics, data science, machine learning and deep learning
+
+## Learning Roadmap
+
+```text
+Python Fundamentals
+        ↓
+Data Structures & Algorithms
+        ↓
+Mathematics & Data Science
+        ↓
+Machine Learning
+        ↓
+Deep Learning
+        ↓
+AI Specialization & Product Building
 ```
-Python           →  core concepts, OOP, NumPy/pandas — solid, still sharpening
-DSA              →  recursion, trees, BSTs (insert/delete/traversal), sorting
-                     (not yet: hash tables, graphs)
-Math/Data Sci    →  not started
-ML / DL          →  not started
-```
 
-No inflated checklist here — this is the real state, updated as it changes.
+*The roadmap represents my intended learning sequence, not completed milestones.*
 
+## Current Progress
 
-### How I work
+| Area | Status |
+|---|---|
+| Python | Building and refining fundamentals |
+| DSA | Practicing recursion, trees, BSTs and sorting |
+| Mathematics & Data Science | Not started |
+| Machine Learning & Deep Learning | Not started |
 
-- Finish one resource before starting another
-- Build to understand, not to pad a portfolio
-- Would rather be told what's wrong with my approach than be told it's fine
-- Discipline over motivation — consistency compounds
+I keep this section honest. I'll update it as my knowledge and practical experience grow.
+
+## Principles I Follow
+
+- **Understand, don't memorize.**
+- Build projects to apply what I learn.
+- Finish one learning resource before jumping to another.
+- Treat mistakes and debugging as part of the process.
+- Prefer honest feedback over empty validation.
+- Stay consistent instead of relying on motivation.
 
 ---
 
-<p align="center"><sub>Still early. Progress tracked, not performed.</sub></p>
+<p align="center">
+  <i>Discipline beats motivation. Small progress every day compounds.</i>
+</p>
+
+<p align="center">
+  <sub>Learning in public · Building step by step · Pakistan 🇵🇰</sub>
+</p>
