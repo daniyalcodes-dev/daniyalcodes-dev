@@ -49,8 +49,9 @@ My approach is simple: learn the concept, practice it, build something with it, 
 | 06 | Deep Learning | fast.ai · PyTorch | ⏳ Planned |
 | 07 | AI Engineering & Product Building | Hugging Face | 🎯 Long-term Goal |
 
-<sub>Sequential by design — one track at a time, with a focus on understanding and practical implementation.</sub>
-## `04` — Tech Stack
+<p align="center">
+  <sub>One track at a time · Strong fundamentals · Build to understand</sub>
+</p>## `04` — Tech Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" alt="Python, Git, GitHub, and VS Code" />
