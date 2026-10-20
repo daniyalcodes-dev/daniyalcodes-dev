@@ -39,53 +39,17 @@ My approach is simple: learn the concept, practice it, build something with it, 
 
 ## `03` — Learning Roadmap
 
-<table>
-  <tr>
-    <td align="center" valign="middle" width="33%">
-      <img src="https://img.shields.io/badge/01-DONE-16A34A?style=flat-square" alt="Completed"/><br/>
-      <strong>Python</strong><br/>
-      <sub>CS50P</sub>
-    </td>
-    <td align="center" valign="middle" width="34%">
-      <img src="https://img.shields.io/badge/02-CURRENT-0284C7?style=flat-square" alt="Current"/><br/>
-      <strong>AI</strong><br/>
-      <sub>CS50AI</sub>
-    </td>
-    <td align="center" valign="middle" width="33%">
-      <img src="https://img.shields.io/badge/03-NEXT-64748B?style=flat-square" alt="Up next"/><br/>
-      <strong>DSA</strong><br/>
-      <sub>Algorithms & problem solving</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="middle">
-      <img src="https://img.shields.io/badge/04-PLANNED-64748B?style=flat-square" alt="Planned"/><br/>
-      <strong>Mathematics</strong><br/>
-      <sub>Data science foundations</sub>
-    </td>
-    <td align="center" valign="middle">
-      <img src="https://img.shields.io/badge/05-PLANNED-64748B?style=flat-square" alt="Planned"/><br/>
-      <strong>Machine Learning</strong><br/>
-      <sub>Models & evaluation</sub>
-    </td>
-    <td align="center" valign="middle">
-      <img src="https://img.shields.io/badge/06-PLANNED-64748B?style=flat-square" alt="Planned"/><br/>
-      <strong>Deep Learning</strong><br/>
-      <sub>Neural networks</sub>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="3" align="center" valign="middle">
-      <img src="https://img.shields.io/badge/07-LONG--TERM_GOAL-7C3AED?style=flat-square" alt="Long-term goal"/><br/>
-      <strong>AI Specialization & Product Building</strong><br/>
-      <sub>Building practical AI-powered products</sub>
-    </td>
-  </tr>
-</table>
+| Phase | Focus | Primary Resource | Status |
+|:---:|:---|:---|:---|
+| 01 | Python Programming | CS50P | ✅ Completed |
+| 02 | Artificial Intelligence | CS50AI | 🔄 In Progress |
+| 03 | Data Structures & Algorithms | MIT OCW 6.006 | ⏳ Planned |
+| 04 | Mathematics & Data Science | Khan Academy | ⏳ Planned |
+| 05 | Machine Learning | Kaggle Learn · Google ML Crash Course | ⏳ Planned |
+| 06 | Deep Learning | fast.ai · PyTorch | ⏳ Planned |
+| 07 | AI Engineering & Product Building | Hugging Face | 🎯 Long-term Goal |
 
-<p align="center">
-  <sub>One track at a time · Strong fundamentals · Build to understand</sub>
-</p>
+<sub>Sequential by design — one track at a time, with a focus on understanding and practical implementation.</sub>
 ## `04` — Tech Stack
 
 <p>
