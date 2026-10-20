@@ -39,38 +39,34 @@ My approach is simple: learn the concept, practice it, build something with it, 
 
 ## `03` — Learning Roadmap
 
-## Learning Roadmap
-
 <table>
   <tr>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://img.shields.io/badge/01-COMPLETED-16A34A?style=flat-square" alt="Completed"/><br/>
-      <strong>Python Fundamentals</strong><br/>
+    <td align="center" valign="middle" width="33%">
+      <img src="https://img.shields.io/badge/01-DONE-16A34A?style=flat-square" alt="Completed"/><br/>
+      <strong>Python</strong><br/>
       <sub>CS50P</sub>
     </td>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://img.shields.io/badge/02-IN_PROGRESS-0284C7?style=flat-square" alt="In progress"/><br/>
-      <strong>Artificial Intelligence</strong><br/>
+    <td align="center" valign="middle" width="34%">
+      <img src="https://img.shields.io/badge/02-CURRENT-0284C7?style=flat-square" alt="Current"/><br/>
+      <strong>AI</strong><br/>
       <sub>CS50AI</sub>
     </td>
+    <td align="center" valign="middle" width="33%">
+      <img src="https://img.shields.io/badge/03-NEXT-64748B?style=flat-square" alt="Up next"/><br/>
+      <strong>DSA</strong><br/>
+      <sub>Algorithms & problem solving</sub>
+    </td>
   </tr>
   <tr>
-    <td align="center" valign="middle">
-      <img src="https://img.shields.io/badge/03-UP_NEXT-64748B?style=flat-square" alt="Up next"/><br/>
-      <strong>Data Structures & Algorithms</strong><br/>
-      <sub>Problem solving & algorithms</sub>
-    </td>
     <td align="center" valign="middle">
       <img src="https://img.shields.io/badge/04-PLANNED-64748B?style=flat-square" alt="Planned"/><br/>
-      <strong>Mathematics & Data Science</strong><br/>
-      <sub>Statistics & data analysis</sub>
+      <strong>Mathematics</strong><br/>
+      <sub>Data science foundations</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="middle">
       <img src="https://img.shields.io/badge/05-PLANNED-64748B?style=flat-square" alt="Planned"/><br/>
       <strong>Machine Learning</strong><br/>
-      <sub>Training & evaluating models</sub>
+      <sub>Models & evaluation</sub>
     </td>
     <td align="center" valign="middle">
       <img src="https://img.shields.io/badge/06-PLANNED-64748B?style=flat-square" alt="Planned"/><br/>
@@ -79,7 +75,7 @@ My approach is simple: learn the concept, practice it, build something with it, 
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center" valign="middle">
+    <td colspan="3" align="center" valign="middle">
       <img src="https://img.shields.io/badge/07-LONG--TERM_GOAL-7C3AED?style=flat-square" alt="Long-term goal"/><br/>
       <strong>AI Specialization & Product Building</strong><br/>
       <sub>Building practical AI-powered products</sub>
@@ -88,9 +84,8 @@ My approach is simple: learn the concept, practice it, build something with it, 
 </table>
 
 <p align="center">
-  <sub>One track at a time · Focus on fundamentals · Learn by building</sub>
+  <sub>One track at a time · Strong fundamentals · Build to understand</sub>
 </p>
-
 ## `04` — Tech Stack
 
 <p>
