@@ -43,55 +43,53 @@ My approach is simple: learn the concept, practice it, build something with it, 
 
 <table>
   <tr>
-    <td align="center" width="50%">
-      <h3>01 · Python</h3>
-      <sub>CS50P</sub><br/>
-      <strong>✓ Completed</strong>
+    <td width="50%" align="center" valign="middle">
+      <img src="https://img.shields.io/badge/01-COMPLETED-16A34A?style=flat-square" alt="Completed"/><br/>
+      <strong>Python Fundamentals</strong><br/>
+      <sub>CS50P</sub>
     </td>
-    <td align="center" width="50%">
-      <h3>02 · Artificial Intelligence</h3>
-      <sub>CS50AI</sub><br/>
-      <strong>→ Current Focus</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <h3>03 · DSA</h3>
-      <sub>Algorithms & Problem Solving</sub><br/>
-      <strong>Planned</strong>
-    </td>
-    <td align="center">
-      <h3>04 · Mathematics & Data Science</h3>
-      <sub>Math, Statistics & Data Analysis</sub><br/>
-      <strong>Planned</strong>
+    <td width="50%" align="center" valign="middle">
+      <img src="https://img.shields.io/badge/02-IN_PROGRESS-0284C7?style=flat-square" alt="In progress"/><br/>
+      <strong>Artificial Intelligence</strong><br/>
+      <sub>CS50AI</sub>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <h3>05 · Machine Learning</h3>
-      <sub>Models & Evaluation</sub><br/>
-      <strong>Planned</strong>
+    <td align="center" valign="middle">
+      <img src="https://img.shields.io/badge/03-UP_NEXT-64748B?style=flat-square" alt="Up next"/><br/>
+      <strong>Data Structures & Algorithms</strong><br/>
+      <sub>Problem solving & algorithms</sub>
     </td>
-    <td align="center">
-      <h3>06 · Deep Learning</h3>
-      <sub>Neural Networks</sub><br/>
-      <strong>Planned</strong>
+    <td align="center" valign="middle">
+      <img src="https://img.shields.io/badge/04-PLANNED-64748B?style=flat-square" alt="Planned"/><br/>
+      <strong>Mathematics & Data Science</strong><br/>
+      <sub>Statistics & data analysis</sub>
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
-      <h3>07 · AI Specialization & Product Building</h3>
-      <sub>Applying AI to solve real-world problems</sub><br/>
-      <strong>Long-term Goal</strong>
+    <td align="center" valign="middle">
+      <img src="https://img.shields.io/badge/05-PLANNED-64748B?style=flat-square" alt="Planned"/><br/>
+      <strong>Machine Learning</strong><br/>
+      <sub>Training & evaluating models</sub>
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://img.shields.io/badge/06-PLANNED-64748B?style=flat-square" alt="Planned"/><br/>
+      <strong>Deep Learning</strong><br/>
+      <sub>Neural networks</sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="middle">
+      <img src="https://img.shields.io/badge/07-LONG--TERM_GOAL-7C3AED?style=flat-square" alt="Long-term goal"/><br/>
+      <strong>AI Specialization & Product Building</strong><br/>
+      <sub>Building practical AI-powered products</sub>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <sub>One track at a time · Progress based on understanding and practical work</sub>
+  <sub>One track at a time · Focus on fundamentals · Learn by building</sub>
 </p>
-
-<sub>This is my planned sequence, not a claim that every stage is complete. I'll adjust it as my understanding develops.</sub>
 
 ## `04` — Tech Stack
 
