@@ -39,21 +39,57 @@ My approach is simple: learn the concept, practice it, build something with it, 
 
 ## `03` — Learning Roadmap
 
-```text
-01  Python Fundamentals          [Completed: CS50P]
-             ↓
-02  Artificial Intelligence      [Current Focus: CS50AI]
-             ↓
-03  Data Structures & Algorithms
-             ↓
-04  Mathematics & Data Science
-             ↓
-05  Machine Learning
-             ↓
-06  Deep Learning
-             ↓
-07  AI Specialization & Product Building
-```
+## Learning Roadmap
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>01 · Python</h3>
+      <sub>CS50P</sub><br/>
+      <strong>✓ Completed</strong>
+    </td>
+    <td align="center" width="50%">
+      <h3>02 · Artificial Intelligence</h3>
+      <sub>CS50AI</sub><br/>
+      <strong>→ Current Focus</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>03 · DSA</h3>
+      <sub>Algorithms & Problem Solving</sub><br/>
+      <strong>Planned</strong>
+    </td>
+    <td align="center">
+      <h3>04 · Mathematics & Data Science</h3>
+      <sub>Math, Statistics & Data Analysis</sub><br/>
+      <strong>Planned</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>05 · Machine Learning</h3>
+      <sub>Models & Evaluation</sub><br/>
+      <strong>Planned</strong>
+    </td>
+    <td align="center">
+      <h3>06 · Deep Learning</h3>
+      <sub>Neural Networks</sub><br/>
+      <strong>Planned</strong>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <h3>07 · AI Specialization & Product Building</h3>
+      <sub>Applying AI to solve real-world problems</sub><br/>
+      <strong>Long-term Goal</strong>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <sub>One track at a time · Progress based on understanding and practical work</sub>
+</p>
 
 <sub>This is my planned sequence, not a claim that every stage is complete. I'll adjust it as my understanding develops.</sub>
 
