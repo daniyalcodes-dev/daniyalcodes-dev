@@ -51,8 +51,9 @@ My approach is simple: learn the concept, practice it, build something with it, 
 
 <p align="center">
   <sub>One track at a time · Strong fundamentals · Build to understand</sub>
-## `04` — Tech Stack
+---
 
+## `04` — Tech Stack
 <p>
   <img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" alt="Python, Git, GitHub, and VS Code" />
 </p>
