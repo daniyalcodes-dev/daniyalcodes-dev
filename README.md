@@ -15,7 +15,6 @@
   <a href="https://www.linkedin.com/in/daniyalcodes-dev">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <img src="https://img.shields.io/badge/Location-Pakistan-0B1220?style=for-the-badge&logo=googlemaps&logoColor=90E0EF" alt="Pakistan" />
 </p>
 
 ---
