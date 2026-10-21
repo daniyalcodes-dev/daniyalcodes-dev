@@ -1,4 +1,3 @@
-# Daniyal Hassan
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:0B1220,50:102A43,100:0077B6&text=DANIYAL%20HASSAN&fontSize=38&fontColor=CAF0F8&fontAlignY=42&desc=Learning%20AI%20%7C%20Building%20with%20Python&descSize=15&descAlignY=65&descColor=90E0EF" width="100%" alt="Daniyal Hassan — AI and Python" />
