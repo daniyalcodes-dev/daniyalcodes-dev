@@ -69,18 +69,10 @@ I recently completed **CS50's Introduction to Programming with Python (CS50P)** 
   <sub>Focusing on deep competence and practical problem-solving rather than collecting frameworks.</sub>
 </p>
 
----
-
-## `05` — GitHub Analytics
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=daniyalcodes-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Daniyal's GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniyalcodes-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 
-## `06` — Core Principles
+## `05` — Core Principles
 
 * **No Black Boxes:** Understand the logic before using high-level abstractions.
 * **Build > Watch:** Prioritize building projects over passively watching tutorials.
